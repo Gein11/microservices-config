@@ -1,4 +1,5 @@
 build:
+<<<<<<< HEAD
   version: "1.0"
 
 accounts:
@@ -9,3 +10,14 @@ accounts:
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
+=======
+  version: "3.0"
+accounts:
+  message: "Welcome to TC bank accounts related prod APIs"
+  contactDetails:
+    name: "jayce@gmail.com"
+    email: "ayce@gmail.com"
+  onCallSupport:
+    - (455) 134-2435
+    - (111) 124-7594
+>>>>>>> 7863898ff4bd683d507527289a899c7139efbd04
