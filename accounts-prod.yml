@@ -1,8 +1,10 @@
+build:
+  version: "3.0"
 accounts:
-  message: "Welcome to eazy bank accounts related prod APIs"
+  message: "Welcome to TC bank accounts related prod APIs"
   contactDetails:
-    name: "Hayden"
-    email: "hayden@abc.com"
+    name: "jayce@gmail.com"
+    email: "ayce@gmail.com"
   onCallSupport:
     - (455) 134-2435
     - (111) 124-7594
