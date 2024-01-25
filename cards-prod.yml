@@ -1,8 +1,11 @@
+build:
+  version: "1.0"
+
 cards:
-  message: "Welcome to eazy bank cards related prod APIs"
+  message: "Hey, welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Hayden"
-    email: "hayden@abc.com"
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@eazybank.com"
   onCallSupport:
-    - (455) 134-2435
-    - (111) 124-7594
+    - (617) 432-2356
+    - (936) 564-8721

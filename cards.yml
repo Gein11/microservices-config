@@ -1,8 +1,11 @@
+build:
+  version: "3.0"
+
 cards:
-  message: "Welcome to eazy bank cards related local APIs"
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Hayden"
-    email: "hayden@abc.com"
+    name: "Dragos Lech - Developer"
+    email: "dragos@eazybank.com"
   onCallSupport:
-    - (455) 134-2435
-    - (111) 124-7594
+    - (412) 419-3491
+    - (915) 382-1932
