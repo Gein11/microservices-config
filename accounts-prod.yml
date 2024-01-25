@@ -1,4 +1,4 @@
-
+build:
   version: "3.0"
 accounts:
   message: "Welcome to TC bank accounts related prod APIs"
@@ -8,4 +8,4 @@ accounts:
   onCallSupport:
     - (455) 134-2435
     - (111) 124-7594
->>>>>>> 7863898ff4bd683d507527289a899c7139efbd04
+
